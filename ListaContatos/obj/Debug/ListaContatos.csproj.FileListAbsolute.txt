@@ -1,0 +1,29 @@
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\ListaTelefonicaForm\ListaContatos\ListaContatos\bin\Debug\ListaContatos.exe.config
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\ListaTelefonicaForm\ListaContatos\ListaContatos\bin\Debug\ListaContatos.exe
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\ListaTelefonicaForm\ListaContatos\ListaContatos\bin\Debug\ListaContatos.pdb
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\ListaTelefonicaForm\ListaContatos\ListaContatos\obj\Debug\ListaContatos.csprojAssemblyReference.cache
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\ListaTelefonicaForm\ListaContatos\ListaContatos\obj\Debug\ListaContatos.Form1.resources
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\ListaTelefonicaForm\ListaContatos\ListaContatos\obj\Debug\ListaContatos.Properties.Resources.resources
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\ListaTelefonicaForm\ListaContatos\ListaContatos\obj\Debug\ListaContatos.csproj.GenerateResource.cache
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\ListaTelefonicaForm\ListaContatos\ListaContatos\obj\Debug\ListaContatos.csproj.CoreCompileInputs.cache
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\ListaTelefonicaForm\ListaContatos\ListaContatos\obj\Debug\ListaContatos.exe
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\ListaTelefonicaForm\ListaContatos\ListaContatos\obj\Debug\ListaContatos.pdb
+C:\Users\aluno\Desktop\23082018\ListaTelefonicaForm\ListaContatos\ListaContatos\bin\Debug\ListaContatos.exe.config
+C:\Users\aluno\Desktop\23082018\ListaTelefonicaForm\ListaContatos\ListaContatos\obj\Debug\ListaContatos.exe
+C:\Users\aluno\Desktop\23082018\ListaTelefonicaForm\ListaContatos\ListaContatos\obj\Debug\ListaContatos.pdb
+C:\Users\aluno\Desktop\23082018\ListaTelefonicaForm\ListaContatos\ListaContatos\bin\Debug\ListaContatos.exe
+C:\Users\aluno\Desktop\23082018\ListaTelefonicaForm\ListaContatos\ListaContatos\bin\Debug\ListaContatos.pdb
+C:\Users\aluno\Desktop\23082018\ListaTelefonicaForm\ListaContatos\ListaContatos\obj\Debug\ListaContatos.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\23082018\ListaTelefonicaForm\ListaContatos\ListaContatos\obj\Debug\ListaContatos.Form1.resources
+C:\Users\aluno\Desktop\23082018\ListaTelefonicaForm\ListaContatos\ListaContatos\obj\Debug\ListaContatos.Properties.Resources.resources
+C:\Users\aluno\Desktop\23082018\ListaTelefonicaForm\ListaContatos\ListaContatos\obj\Debug\ListaContatos.csproj.GenerateResource.Cache
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\23082018\ListaTelefonicaForm\ListaContatos\ListaContatos\bin\Debug\ListaContatos.exe.config
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\23082018\ListaTelefonicaForm\ListaContatos\ListaContatos\bin\Debug\ListaContatos.exe
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\23082018\ListaTelefonicaForm\ListaContatos\ListaContatos\bin\Debug\ListaContatos.pdb
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\23082018\ListaTelefonicaForm\ListaContatos\ListaContatos\obj\Debug\ListaContatos.csprojAssemblyReference.cache
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\23082018\ListaTelefonicaForm\ListaContatos\ListaContatos\obj\Debug\ListaContatos.Form1.resources
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\23082018\ListaTelefonicaForm\ListaContatos\ListaContatos\obj\Debug\ListaContatos.Properties.Resources.resources
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\23082018\ListaTelefonicaForm\ListaContatos\ListaContatos\obj\Debug\ListaContatos.csproj.GenerateResource.cache
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\23082018\ListaTelefonicaForm\ListaContatos\ListaContatos\obj\Debug\ListaContatos.csproj.CoreCompileInputs.cache
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\23082018\ListaTelefonicaForm\ListaContatos\ListaContatos\obj\Debug\ListaContatos.exe
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\23082018\ListaTelefonicaForm\ListaContatos\ListaContatos\obj\Debug\ListaContatos.pdb

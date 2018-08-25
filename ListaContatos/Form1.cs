@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -103,17 +103,31 @@ namespace ListaContatos
 
         private void buttonPesquisar_Click(object sender, EventArgs e)
         {
-            /*
-            int c = Convert.ToInt16(textId.Text);
+            int num = Convert.ToInt32(textId.Text);
 
-            foreach (Contato ctt in ListaCont.MinhaLista)
+            foreach (Contato contatinho in ListaCont.MinhaLista)
             {
-                if (ctt.Equals(c)) return ctt;
+                    //if(ListaCont.MinhaLista.Equals(new Contato(Convert.ToInt32(textId.Text))));
+                if (contatinho.Equals(new Contato(num)))
+                {
+                    MessageBox.Show("Contato encontrado");
+                    textId.Text = Convert.ToString(contatinho.Id);
+                    textNome.Text = contatinho.Nome;
+                    textEmail.Text = contatinho.Email;
+                    textTelefone.Text = contatinho.Telefone;
+                    
+                    break;
+                }
             }
-            return null;*/
-
-
+            
+            
+            listBoxBuscar.Items.Clear();
             //Convert.ToInt32(textId.Text, Convert.ToString(textNome.Text), textEmail.Text, textTelefone.Text) = ListaCont.pesquisar(new Contato(Convert.ToInt32(textId.Text)));
+           /* listBoxBuscar.Items.Clear();
+            foreach (Contato contatinho in ListaCont.MinhaLista)
+            {
+                listBoxBuscar.Items.Add(contatinho.dados());
+            }*/
         }
     }//class
 }//namespace

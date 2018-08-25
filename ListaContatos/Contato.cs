@@ -75,14 +75,12 @@ namespace ListaContatos
             return "id : " + this.id.ToString() + " - nome: " + this.nome + " - email: " +
                 this.email + " - telefone: " + this.telefone ;
         }
-        /*
-        public Contato buscaDados(int p)
+        public string buscaDados(int i)
         {
-            foreach (Contato ctt in MinhaLista)
-            {
-                if (ctt.Equals(p)) return ctt;
-            }
+            return "id : " + this.id.ToString() + " - nome: " + this.nome + " - email: " +
+                this.email + " - telefone: " + this.telefone;
         }
+    /*
     public double precoTotal();
     {
 

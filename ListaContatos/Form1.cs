@@ -103,6 +103,7 @@ namespace ListaContatos
 
         private void buttonPesquisar_Click(object sender, EventArgs e)
         {
+            bool conf = false;
             int num = Convert.ToInt32(textId.Text);
 
             foreach (Contato contatinho in ListaCont.MinhaLista)
@@ -115,19 +116,19 @@ namespace ListaContatos
                     textNome.Text = contatinho.Nome;
                     textEmail.Text = contatinho.Email;
                     textTelefone.Text = contatinho.Telefone;
-                    
+
+                    conf = true;
+
                     break;
                 }
+                conf = false;
             }
             
-            
-            listBoxBuscar.Items.Clear();
-            //Convert.ToInt32(textId.Text, Convert.ToString(textNome.Text), textEmail.Text, textTelefone.Text) = ListaCont.pesquisar(new Contato(Convert.ToInt32(textId.Text)));
-           /* listBoxBuscar.Items.Clear();
-            foreach (Contato contatinho in ListaCont.MinhaLista)
+            if(ListaCont.isEmpty(conf) == false )
             {
-                listBoxBuscar.Items.Add(contatinho.dados());
-            }*/
+                MessageBox.Show("Este contato não existe na lista");
+            }
+            listBoxBuscar.Items.Clear();
         }
     }//class
 }//namespace

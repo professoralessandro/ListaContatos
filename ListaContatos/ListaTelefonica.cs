@@ -52,10 +52,10 @@ namespace ListaContatos
         {
             return this.minhaLista.Remove(p);
         }
-        /*
-        public string buscar(Contato p)
+        
+        public Boolean isEmpty(bool a)
         {
-            return this.minhaLista.IndexOf(new List<Contato>());
-        }*/
+            return a;
+        }
     }
 }
